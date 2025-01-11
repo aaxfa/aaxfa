@@ -1,0 +1,47 @@
+img {
+    height: 250px;
+    width: 300px;
+    border: 3px solid black;
+}
+.container {
+    height: 350px;
+    width: 305px;
+   background-color: black;
+ border: 3px solid black;
+ 
+
+}
+body {
+    background-image: url(0e19141daf7b427719e6e351207e7515.jpg);
+} 
+figcaption {
+    color: white;
+    font-size:large;
+}
+.navbar{
+    background-color:darkred;height: 40px;width: 1900px;
+    font-size: x-large;
+    overflow: hidden;
+
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+padding: 15px; 
+}
+.navbar a:hover{
+    background-color: red;
+    padding: 5px;
+
+ }
+ .navbar a:active{
+    background-color:black;
+    padding: 5px;
+    
+
+ }
+ 
+ 
